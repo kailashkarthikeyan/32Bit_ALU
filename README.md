@@ -192,7 +192,6 @@ Inputs: Top level design / test bench Verilog codes
 
 Outputs: Elaborate database updated in mapped library if successful, generates report else error reported in log file 
 
-![image](https://github.com/user-attachments/assets/0979bfb2-e0c0-499b-8e68-93420ccf633d)
 
 ## 	Steps for elaboration 
 
